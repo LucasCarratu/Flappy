@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="749ac8a4-9a3f-470c-831b-f7722fe69c30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/data/font.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/font.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/cate/flappy/game/screens/ClientScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/cate/flappy/game/screens/server/ServerRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/cate/flappy/game/screens/server/ServerScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/cate/flappy/game/screens/server/ServerWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/cate/flappy/net/ClientBird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/cate/flappy/net/JugadorRed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/cate/flappy/net/ServidorFlappy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/Assets.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/Assets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/Counter/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/Counter/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/Counter/Pipe.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/Counter/Pipe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/MainFlppyBird.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/MainFlppyBird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/game/GameScreen$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/game/GameScreen$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/game/GameScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/game/WorldGame$Collisions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/game/WorldGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/game/WorldGameRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/screens/Screens.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/bin/main/com/cate/flappy/screens/Screens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/cate/flappy/Assets.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/cate/flappy/Assets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/cate/flappy/Counter/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/cate/flappy/Counter/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/cate/flappy/Counter/Pipe.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/cate/flappy/Counter/Pipe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/cate/flappy/MainFlppyBird.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/cate/flappy/MainFlppyBird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/cate/flappy/game/GameScreen$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/cate/flappy/game/GameScreen$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/cate/flappy/game/GameScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/cate/flappy/game/WorldGame$Collisions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/cate/flappy/game/WorldGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/cate/flappy/game/WorldGameRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/tmp/compileJava/compileTransaction/stash-dir/GameScreen$1.class.uniqueId2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/tmp/compileJava/compileTransaction/stash-dir/GameScreen$2.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/tmp/compileJava/compileTransaction/stash-dir/GameScreen.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/tmp/compileJava/compileTransaction/stash-dir/MainFlppyBird.class.uniqueId5" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/tmp/compileJava/compileTransaction/stash-dir/MainFlppyBird.class.uniqueId5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/tmp/compileJava/compileTransaction/stash-dir/WorldGame$Collisions.class.uniqueId3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/tmp/compileJava/compileTransaction/stash-dir/WorldGame.class.uniqueId6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/tmp/compileJava/compileTransaction/stash-dir/WorldGameRenderer.class.uniqueId4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/cate/flappy/Assets.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/cate/flappy/Assets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/cate/flappy/Counter/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/cate/flappy/Counter/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/cate/flappy/Counter/Pipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/cate/flappy/Counter/Pipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/cate/flappy/MainFlppyBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/cate/flappy/MainFlppyBird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/cate/flappy/PlayerPosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/cate/flappy/game/GameScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/cate/flappy/game/screens/singleplayer/GameScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/cate/flappy/game/WorldGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/cate/flappy/game/screens/singleplayer/WorldGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/cate/flappy/game/WorldGameRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/cate/flappy/game/screens/singleplayer/WorldGameRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/core">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/desktop">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Proyecto-final-cate" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Proyecto-final-cate" type="f1a62948:ProjectNode" />
+                <item name="desktop" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Proyecto-final-cate" type="f1a62948:ProjectNode" />
+                <item name="desktop" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Proyecto-final-cate" type="f1a62948:ProjectNode" />
+                <item name="desktop" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2mZa0jiCD9xlNPGLpJzxCYGZTkU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JASINSKI/TPS-A-red/Proyecto-final-cate/core/src/com/cate/flappy/game/screens/server&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cate.flappy.net" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JASINSKI\TPS-A-red\Proyecto-final-cate\core\src\com\cate\flappy\game\screens\server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JASINSKI\TPS-A-red\Proyecto-final-cate\assets\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Proyecto-final-cate:desktop [dist]">
+    <configuration name="Proyecto-final-cate:desktop [dist]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/desktop" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dist" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Proyecto-final-cate:desktop [processTestResources]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/desktop" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="processTestResources" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Proyecto-final-cate:desktop [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/desktop" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Proyecto-final-cate:desktop [dist]" />
+        <item itemvalue="Gradle.Proyecto-final-cate:desktop [run]" />
+        <item itemvalue="Gradle.Proyecto-final-cate:desktop [processTestResources]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="749ac8a4-9a3f-470c-831b-f7722fe69c30" name="Changes" comment="" />
+      <created>1727286333057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727286333057</updated>
+      <workItem from="1727286334394" duration="2077000" />
+      <workItem from="1727377356598" duration="1096000" />
+      <workItem from="1727378466419" duration="642000" />
+      <workItem from="1727381324795" duration="1511000" />
+      <workItem from="1727403381209" duration="2753000" />
+      <workItem from="1727911280736" duration="10484000" />
+      <workItem from="1727925569275" duration="4836000" />
+      <workItem from="1727961831660" duration="9439000" />
+      <workItem from="1730151681353" duration="1449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
